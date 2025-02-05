@@ -9,7 +9,8 @@ Course & Year: BSIT 3
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<h1 align="center">Hi 👋, I'm John Kenneth B. Baguio</h1>
+<h3 align="center">Hi! My name is John Kenneth Baguio and I live in Tungkop, Minglanilla, Cebu. My hobbies include watching K-dramas, playing video games like Dota 2 and Valorant, and trying out new activities in my free time. I have a strong interest in exploring and gaming strategies. I believe that balance between relaxation and effort is key to personal growth and fulfillment. I’m always looking forward to enjoying life’s simple moments while working toward my goals</h3>
 
 <p align="left">My name is Ashley Josh V. Vequiso and I'm from Dumlog Talisay City, Cebu.</p>
 
