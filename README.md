@@ -1,9 +1,9 @@
-# -IT342-G5-TrioLang
+# -IT342-G5-ThriveWell
 
 Team Members:
 
-Member 2:
-Name: Ashley Josh V. Vequiso
+Member 1:
+Name: Emmanuel A. Dedumo
 Course & Year: BSIT 3
 
 
