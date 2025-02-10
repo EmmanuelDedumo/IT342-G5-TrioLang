@@ -1,5 +1,33 @@
 # -IT342-G5-ThriveWell
 
+Project Descriptions:
+
+ThriveWell is an integrated web and mobile platform designed to help users improve their mental, physical, and emotional well-being. It offers habit tracking, goal setting, mood logging, and guided mindfulness exercises to support a balanced lifestyle. Users can engage with a community support system, participate in wellness challenges, and access expert resources for self-care. The platform includes a journaling system, and personalized recommendations based on user activity. A reminder system and bookmarking feature help users stay consistent with their wellness routines. With a focus on simplicity, personalization, and engagement, Wellness provides a seamless experience for building and sustaining a healthier lifestyle. 
+
+List of Features:
+
+Web App
+1.1 Mood Tracking (Web) 
+Users can easily log and analyze their emotional states, identifying patterns and triggers over time. 
+
+1.2 Guided Meditations (Web) 
+A library of audio and video sessions tailored to promote relaxation, mindfulness, and stress reduction. 
+
+1.3 Resource Library (Web) 
+A curated collection of articles, videos, and tools that provide valuable insights into various mental health topics. 
+
+Mobile App
+
+2.1 Dashboard (Mobile) 
+A visually engaging dashboard that provides users with an overview of their mental health journey, including mood trends, goal progress, and self-care activities, enabling them to track their growth and stay motivated. 
+
+2.2 Community Support (Mobile) 
+A safe and supportive forum for users to connect, share experiences, and seek advice from peers. 
+
+2.3 Mental Health Check-Ins (Mobile) 
+Users receive prompts for daily or weekly check-ins to assess their mental state, stress levels, and overall happiness.  
+Questions can include scales (e.g., 1-10) or multiple-choice options to gauge feelings. 
+
 Team Members:
 
 Member 1:
